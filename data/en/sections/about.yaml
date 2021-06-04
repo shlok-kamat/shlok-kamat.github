@@ -8,11 +8,11 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Student
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: Shiv Nadar University
+  url: "https://snu.edu.in/home"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
@@ -25,26 +25,18 @@ summary: 'I am a passionate software engineer with x years of working experience
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "shlok.kamat18@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
-
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+  url: "https://github.com/Shlok2002"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "www.linkedin.com/in/shlok-s-kamat"
 
 - name: Twitter
   icon: "fab fa-twitter"
-  url: "#"
-
-- name: Facebook
-  icon: "fab fa-facebook"
   url: "#"
 
 # Show your badges
@@ -68,17 +60,17 @@ badges:
 
 - type: soft-skill-indicator
   name: Leadership
-  percentage: 85
+  percentage: 90
   color: blue
 
 - type: soft-skill-indicator
   name: Team Work
-  percentage: 90
+  percentage: 65
   color: yellow
 
 - type: soft-skill-indicator
   name: Hard Working
-  percentage: 85
+  percentage: 95
   color: orange
 
 # you can also provide color code instead of the color name
