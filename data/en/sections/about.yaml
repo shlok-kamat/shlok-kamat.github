@@ -30,8 +30,8 @@ socialLinks:
 - name: Github
   icon: "fab fa-github"
   url: "https://github.com/Shlok2002"
-
-- name: LinkedIn
+  
+ - name: LinkedIn
   icon: "fab fa-linkedin"
   url: "www.linkedin.com/in/shlok-s-kamat"
 
