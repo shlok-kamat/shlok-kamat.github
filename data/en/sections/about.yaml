@@ -40,9 +40,9 @@ socialLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
-  name: Certified Kubernetes Security Specialist
+  name: Data Science Foundations - Level 2 
   url: "https://www.credly.com/badges/b823957b-c3dc-4b44-81a1-02ad3ec3892f/public_url"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+  badge: "https://images.credly.com/images/d7321425-c989-4bf9-846a-cd2a647d213b/Data_Sci_Foundations_Level_2_-_CC_-_2019.png"
 
 - type: certification
   name: Istio and IBM Cloud Kubernetes Service
