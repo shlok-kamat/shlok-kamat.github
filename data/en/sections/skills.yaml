@@ -11,19 +11,19 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+- name: MathWorks Matlab
+  logo: /images/sections/skills/Matlab_Logo.png
+  summary: "Using Matlab computing software for elecrical circuit and system analyses. Developing various simulations using Simulink package."
+  url: "https://www.mathworks.com/"
 
 - name: Python Development
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+  logo: /images/sections/skills/python.png
+  summary: "Using as the main language for professional development. Capable of writing GUI based programs and softwares. Used also for scientific computation and Exploratory Data Analysis (EDA)"
+  url: "https://www.python.org/"
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  summary: "Basic knowledge of the major clouds such as GCP, AWS, Azure etc."
 
 - name: Git
   logo: /images/sections/skills/git.png
