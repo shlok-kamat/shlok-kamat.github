@@ -43,6 +43,15 @@ badges:
   name: Data Science Foundations - Level 2 
   url: "https://www.credly.com/badges/b823957b-c3dc-4b44-81a1-02ad3ec3892f/public_url"
   badge: "https://images.credly.com/images/d7321425-c989-4bf9-846a-cd2a647d213b/Data_Sci_Foundations_Level_2_-_CC_-_2019.png"
+- type: certification
+  name: Data Science Foundations - Level 2 
+  url: "https://www.credly.com/badges/b823957b-c3dc-4b44-81a1-02ad3ec3892f/public_url"
+  badge: "https://images.credly.com/images/d7321425-c989-4bf9-846a-cd2a647d213b/Data_Sci_Foundations_Level_2_-_CC_-_2019.png"
+  
+- type: certification
+  name: Data Science Foundations - Level 2 
+  url: "https://www.credly.com/badges/b823957b-c3dc-4b44-81a1-02ad3ec3892f/public_url"
+  badge: "https://images.credly.com/images/d7321425-c989-4bf9-846a-cd2a647d213b/Data_Sci_Foundations_Level_2_-_CC_-_2019.png"
 
 - type: certification
   name: Istio and IBM Cloud Kubernetes Service
