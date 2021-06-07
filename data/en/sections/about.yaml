@@ -44,24 +44,14 @@ badges:
   url: "https://www.credly.com/badges/b823957b-c3dc-4b44-81a1-02ad3ec3892f/public_url"
   badge: "https://images.credly.com/images/d7321425-c989-4bf9-846a-cd2a647d213b/Data_Sci_Foundations_Level_2_-_CC_-_2019.png"
 - type: certification
-  name: Data Science Foundations - Level 2 
-  url: "https://www.credly.com/badges/b823957b-c3dc-4b44-81a1-02ad3ec3892f/public_url"
-  badge: "https://images.credly.com/images/d7321425-c989-4bf9-846a-cd2a647d213b/Data_Sci_Foundations_Level_2_-_CC_-_2019.png"
+  name: Data & AI Essentials 
+  url: "https://www.credly.com/badges/3104c102-d25e-4df3-a337-f4831ef6fcec/public_url"
+  badge: "https://images.credly.com/size/220x220/images/7481cfd9-3956-4b6b-8dc5-edbabb2fd98f/Data_-_AI_Essentials_CP4D_Journey.png"
   
 - type: certification
-  name: Data Science Foundations - Level 2 
-  url: "https://www.credly.com/badges/b823957b-c3dc-4b44-81a1-02ad3ec3892f/public_url"
-  badge: "https://images.credly.com/images/d7321425-c989-4bf9-846a-cd2a647d213b/Data_Sci_Foundations_Level_2_-_CC_-_2019.png"
-
-- type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
-
-- type: certification
-  name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+  name: AI Foundations 
+  url: "https://www.credly.com/badges/96378567-d241-4721-87bb-e778a9b26237/public_url"
+  badge: "https://images.credly.com/size/220x220/images/cbe4e88d-a39a-4863-b98e-932925547e43/AI_Foundations_badge_ISTE_IBM.png"
 
 - type: soft-skill-indicator
   name: Leadership
