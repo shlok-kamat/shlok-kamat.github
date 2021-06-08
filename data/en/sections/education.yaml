@@ -35,22 +35,22 @@ degrees:
     url: "https://snu.edu.in/home"
   grade: #(optional)
     scale: CGPA
-    achieved: 8.82 (Dean's List Recipient)
-    outOf: 10
+    achieved: 8.82 
+    outOf: 10 (Dean's List Recipient)
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: false
     courses:
-    - name: Data Structures and Algorithm
+    - name: Digital Electronics
       achieved: 3.75
       outOf: 4
-    - name: Network Security
+    - name: Basics of Electrical and Electronics Devices
       achieved: 3.80
       outOf: 4
-    - name: Operating System
+    - name: Introduction to Semiconductor Devices
       achieved: 3.5
       outOf: 4
-    - name: Artificial Intelligent
+    - name: Mathematical Modelling
       achieved: 3.75
       outOf: 4
   #publications: #(optional)
@@ -61,8 +61,7 @@ degrees:
   extracurricularActivities: #(optional)
   - Technical member at Roboyantriki - varsity robotics club 
   - IEEE student member since September 2020.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
+  - Content Writer for Surge- The Annual Sports Fest of Shiv Nadar University
 - name: Higher Secondary School Certificate
   icon: fa-university
   timeframe: 2018-2020
