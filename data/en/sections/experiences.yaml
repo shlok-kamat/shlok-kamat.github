@@ -11,54 +11,51 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
+    name: Nexus - Shiv Nadar University
     url: "https://www.example.com"
-    location: Dhaka Branch
+    location: Gautam Buddha Nagar, Uttar Pradesh
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Nexus is the gaming society of Shiv Nadar Univerity which aims to spread gaming culture
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Webmaster - Social Media Team
+    start: Jan 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Supervising and overseeing social media advertising campaigns for the gaming club website
+    - Guiding the PR team to boost participation by examining and analyzing website traffic patterns 
+    - Learning new content management tools
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
+  - designation: Student Member
+    start: Oct 2020
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Planning and executing monthly gaming club activities in collaboration with other members and clubs
+    - Passionately participating in gaming events and spreading the gaming culture at university
+   
+- company:
+    name: Zenida Studios
+    url: "https://www.zenidastudios.com/"
+    overview: A start-up under Atal Incubation Mission (AIM), NITI AAYOG, Govt. of India
+  positions:
+  - designation: Game Tester - Android
+    start: Oct 2020
+    end: Dec 2020
+    responsibilities:
+    - Tested 4 game builds and gained extensive knowledge of game development processes
+    - Used exploit and regression testing techniques to find, reproduce and accurately report issues in detailed bug reports
+    - Participated in a close-knit, friendly atmosphere and shared ideas and helped the developers when needed
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: ITC Hotels
+    url: "https://www.itchotels.com/in/en"
+    location: Greater Delhi Area
+    overview: A chain of luxury hotels under the ITC Conglomerate
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Student Intern - Engineering
+    start: May 2018
+    end: May 2018
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
-
-- company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
-  positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
-    responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Observed everyday functioning of the engineering department at ITC Maurya and ITC Grand Bharat
+    - Studied sustainable engineering practices that reduce the carbon footprint by a massive 63%
+    - Undertook training on MICROS Property Management System (PMS) to aid the engineering department.
