@@ -35,7 +35,7 @@ degrees:
     url: "https://snu.edu.in/home"
   grade: #(optional)
     scale: CGPA
-    achieved: 8.82
+    achieved: 8.82 (Dean's List Recipient)
     outOf: 10
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
@@ -53,26 +53,26 @@ degrees:
     - name: Artificial Intelligent
       achieved: 3.75
       outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
+  #publications: #(optional)
+ # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ #  url: "#"
+  #- title: Fusce eu augue ut odio porttitor pulvinar.
+ #   url: "#"
   extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
+  - Technical member at Roboyantriki - varsity robotics club 
+  - IEEE student member since September 2020.
   - Duis sed massa feugiat, ornare justo et, aliquam est.
   - Pellentesque ut fringilla magna.
 - name: Higher Secondary School Certificate
   icon: fa-university
-  timeframe: 2010-2012
+  timeframe: 2018-2020
   institution:
-    name: MST College of Science
+    name: Shiv Nadar School
     url: "#"
   grade: #(optional)
-    scale: GPA
-    achieved: 5
-    outOf: 5
+    scale: Percantage
+    achieved: 91
+    outOf: 100
   extracurricularActivities: #(optional)
   - In vitae facilisis est, eget porta sem.
   - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
@@ -80,10 +80,10 @@ degrees:
   - Pellentesque ut fringilla magna.
 - name: Secondary School Certificate
   icon: fa-school
-  timeframe: 2005-2010
+  timeframe: 2015-2018
   institution:
-    name: JK School of Science
+    name: Shiv Nadar School
   grade: #(optional)
-    scale: GPA
-    achieved: 4.5
-    outOf: 5
+    scale: Percentage
+    achieved: 97
+    outOf: 100
