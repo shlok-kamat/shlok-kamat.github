@@ -43,15 +43,32 @@ badges:
   name: Data Science Foundations - Level 2 
   url: "https://www.credly.com/badges/b823957b-c3dc-4b44-81a1-02ad3ec3892f/public_url"
   badge: "https://images.credly.com/images/d7321425-c989-4bf9-846a-cd2a647d213b/Data_Sci_Foundations_Level_2_-_CC_-_2019.png"
+  
 - type: certification
   name: Data & AI Essentials 
   url: "https://www.credly.com/badges/3104c102-d25e-4df3-a337-f4831ef6fcec/public_url"
   badge: "https://images.credly.com/size/220x220/images/7481cfd9-3956-4b6b-8dc5-edbabb2fd98f/Data_-_AI_Essentials_CP4D_Journey.png"
+   
+- type: certification
+  name: Basic Principles of Design
+  url: "https://www.credly.com/badges/a8bb0c7e-4187-47c1-b374-65ac1af090ac/public_url"
+  badge: "https://images.credly.com/size/220x220/images/f7d86d94-93de-4809-9af1-9c8e4c643098/Basic_principles_of_design.png"
+  
+- type: certification
+  name: Data Science for Business - Level 1
+  url: "https://www.credly.com/badges/20e1d590-1209-4dee-986c-333f9171b207/public_url"
+  badge: "https://images.credly.com/size/220x220/images/f2f9716d-7be0-47ef-b4ad-c8d3b481b9d7/Data_Sci_Business_Level_1_-_CC_-_2019.png"
   
 - type: certification
   name: AI Foundations 
   url: "https://www.credly.com/badges/96378567-d241-4721-87bb-e778a9b26237/public_url"
   badge: "https://images.credly.com/size/220x220/images/cbe4e88d-a39a-4863-b98e-932925547e43/AI_Foundations_badge_ISTE_IBM.png"
+  
+- type: certification
+  name: IBM Blockchain Essentials V2
+  url: "https://www.credly.com/badges/f2cd8984-a85a-4a24-8daf-2b23821b2829/public_url"
+  badge: "https://images.credly.com/size/220x220/images/2f9eee24-6834-4595-b2b6-e8e585190a0d/IBM-Blockchain-Essentials-V2.png"
+  
 
 - type: soft-skill-indicator
   name: Leadership
