@@ -2,7 +2,7 @@
 name: "श्लोक कामत "
 nickname: "श्लोक"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "नमस्ते मैं,  "
+greeting: "नमस्ते मैं हूँ,  "
 image: "images/author/john.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
