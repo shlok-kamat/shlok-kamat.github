@@ -13,6 +13,10 @@ languages:
   bn:
     languageName: हिन्दी 
     weight: 3
+  in:
+    languageName: हिन्दी 
+    weight: 3
+
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
 # DefaultContentLanguage: en
