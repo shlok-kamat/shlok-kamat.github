@@ -1,6 +1,6 @@
 # some information about you
-name: "Shlok Kamat"
-nickname: "Shlok"
+name: "श्लोक कामत "
+nickname: "श्लोक कामत "
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am "
 image: "images/author/john.png"
@@ -11,6 +11,6 @@ contactInfo:
 
 # some summary about what you do
 summary:
-  - I am a Developer
-  - I am a Devops
+  - में एक डेवलपर हूँ 
+  - मैं एक छात्र हूँ।
  
