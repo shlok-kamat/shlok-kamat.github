@@ -1,8 +1,8 @@
 # some information about you
 name: "श्लोक कामत "
-nickname: "श्लोक कामत "
+nickname: "श्लोक"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi, I am "
+greeting: "नमस्ते मैं,  "
 image: "images/author/john.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
@@ -11,6 +11,6 @@ contactInfo:
 
 # some summary about what you do
 summary:
-  - में एक डेवलपर हूँ 
+  - मैं एक डेवलपर हूँ 
   - मैं एक छात्र हूँ।
  
