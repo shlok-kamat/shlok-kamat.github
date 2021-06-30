@@ -10,7 +10,7 @@ languages:
   en:
     languageName: English
     weight: 1
-  in:
+  bn:
     languageName: हिन्दी 
     weight: 3
 
