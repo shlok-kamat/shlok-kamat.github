@@ -8,10 +8,10 @@ section:
   template: sections/about.html
 
 # your designation
-designation: छात्र
+designation: Student
 # your company information
 company:
-  name: शिव नादर विश्वविद्यालय
+  name: Shiv Nadar University
   url: "https://snu.edu.in/home"
 
 # your resume. this file path should be relative to you "static" directory
