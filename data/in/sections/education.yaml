@@ -34,7 +34,7 @@ degrees:
     name: शिव नादर विश्वविद्यालय
     url: "https://snu.edu.in/home"
   grade:
-    scale: सी.जी.पी.ए
+    scale: C.G.P.A.
     achieved: ८.८२ 
     outOf: १० 
   takenCourses:
@@ -67,23 +67,23 @@ degrees:
   icon: fa-university
   timeframe: २०१८ -२०२० 
   institution:
-    name: এমএসটি বিজ্ঞান কলেজ
-    url: "#"
+    name: शिव नादर स्कूल
+    url: "https://shivnadarschool.edu.in/gurgaon"
   grade:
-    scale: জিপিএ
-    achieved: ৫
-    outOf: ৫
+    scale: Percentage
+    achieved: 91
+    outOf: 100
   extracurricularActivities:
-  - কোনো কথা শোনামাত্রই কি তুমি তা বিশ্বাস করবে?
-  - হয়তো বলবে, করবে, হয়তো বলবে “আমি করবো না।”
-  - তাই কোন কথাটি কাজে লাগবে, তা নির্ধারণ করবে তুমি— হ্যাঁ, তুমি।
-  - নিজেই ঠিক করো, নিজের ভাষাটা কি অর্থহীন, নাকি কিছু সত্যিই বলছে!
-- name: মাধ্যমিক সার্টিফিকেট
+  - IAYP कांस्य पदक प्राप्तकर्ता
+  - २ x एक्स हाउस कप्तान
+  - १३ अकादमिक उत्कृष्टता पुरस्कार (2015-2020)
+  - एथलेटिक्स टीम (ईवेंट:- २०० मीटर, ४०० मीटर, ४x१०० मीटर रिले, ४x२०० मीटर रिले, ६०० मीटर)
+- name: अखिल भारतीय माध्यमिक विद्यालय परीक्षा,
   icon: fa-school
-  timeframe: ২০০৫-২০১০
+  timeframe: २०१५ - २०१८ 
   institution:
-    name: জে কে স্কুল অফ সায়েন্স
+    name: शिव नादर स्कूल
   grade:
-    scale: জিপিএ
-    achieved: ৫
-    outOf: ৪.৫
+    scale: Percentage
+    achieved: 97
+    outOf: 100
