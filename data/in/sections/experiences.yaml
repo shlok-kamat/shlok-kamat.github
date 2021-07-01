@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Experiences
+  name: अनुभव
   id: experiences
   enable: true
   weight: 3
@@ -11,51 +11,51 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Nexus - Shiv Nadar University
+    name: Nexus- Shiv Nadar University
     url: "#"
-    location: Gautam Buddha Nagar, Uttar Pradesh
+    location: गौतम बुद्ध नगर, उत्तर प्रदेश
     # company overview
-    overview: Nexus is the gaming society of Shiv Nadar University
+    overview: नेक्सस शिव नादर विश्वविद्यालय की गेमिंग सोसायटी है
   positions:
-  - designation: Webmaster - Social Media Team
-    start: Jan 2021
+  - designation: वेबमास्टर - सोशल मीडिया टीम
+    start: जनवरी 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Supervising and overseeing social media advertising campaigns for the gaming club website
-    - Guiding the PR team to boost participation by examining and analyzing website traffic patterns 
-    - Learning new content management tools
+    - गेमिंग क्लब वेबसाइट के लिए सोशल मीडिया विज्ञापन अभियानों का पर्यवेक्षण करना
+    - वेबसाइट ट्रैफ़िक पैटर्न की जांच और विश्लेषण करके भागीदारी को बढ़ावा देने के लिए पीआर टीम का मार्गदर्शन करना
+    - नए Content Management Tools (CMS) सीखना
 
-  - designation: Student Member
-    start: Oct 2020
+  - designation: छात्र सदस्य
+    start: अक्टूबर 2020
     responsibilities:
-    - Planning and executing monthly gaming club activities in collaboration with other members and clubs
-    - Passionately participating in gaming events and spreading the gaming culture at university
+    - अन्य सदस्यों और क्लबों के सहयोग से मासिक गेमिंग क्लब गतिविधियों की योजना बनाना और उन्हें क्रियान्वित करना
+    - गेमिंग कार्यक्रमों में उत्साहपूर्वक भाग लेना और विश्वविद्यालय में गेमिंग संस्कृति का प्रसार करना
    
 - company:
     name: Zenida Studios
     url: "https://www.zenidastudios.com/"
-    overview: A start-up under **Atal Incubation Mission (AIM), NITI AAYOG, Govt. of India**
+    overview: अटल इनक्यूबेशन मिशन (ए.आई.एम), नीति आयोग,  भारत सरकार के तहत एक स्टार्ट-अप
   positions:
-  - designation: Game Tester - Android
-    start: Oct 2020
-    end: Dec 2020
+  - designation: गेम टेस्टर - Android
+    start: अक्टूबर 2020
+    end: दिसंबर 2020
     responsibilities:
-    - Tested 4 game builds and gained extensive knowledge of game development processes
-    - Used exploit and regression testing techniques to find, reproduce and accurately report issues in detailed bug reports
-    - Participated in a close-knit, friendly atmosphere and shared ideas and helped the developers when needed
+    - ४ गेम बिल्ड का परीक्षण किया गया और गेम विकास प्रक्रियाओं का व्यापक ज्ञान प्राप्त किया
+    - विस्तृत बग रिपोर्ट में समस्याओं को खोजने, पुनः पेश करने और सटीक रूप से रिपोर्ट करने के लिए प्रयुक्त शोषण और प्रतिगमन परीक्षण तकनीक
+    - एक करीबी, मैत्रीपूर्ण माहौल में भाग लिया और विचारों को साझा किया और जरूरत पड़ने पर डेवलपर्स की मदद की
 
 - company:
     name: ITC Hotels
     url: "https://www.itchotels.com/in/en"
-    location: Greater Delhi Area
-    overview: A chain of luxury hotels under the ITC Conglomerate
+    location: ग्रेटर दिल्ली क्षेत्र
+    overview: आईटीसी समूह के तहत लक्जरी होटलों की एक श्रृंखला 
   positions:
-  - designation: Student Intern - Engineering
-    start: May 2018
-    end: May 2018
+  - designation: छात्र प्रशिक्षु - इंजीनियरिंग
+    start: मई 2018
+    end: मई 2018
     responsibilities:
-    - Observed everyday functioning of the engineering department at ITC Maurya and ITC Grand Bharat
-    - Studied sustainable engineering practices that reduce the carbon footprint by a massive 63%
-    - Undertook training on MICROS Property Management System (PMS) to aid the engineering department.
+    - आईटीसी मौर्य और आईटीसी ग्रैंड भारत में इंजीनियरिंग विभाग के दैनिक कामकाज का अवलोकन किया
+    - टिकाऊ इंजीनियरिंग प्रथाओं का अध्ययन किया जो कार्बन पदचिह्न को बड़े पैमाने पर 63% तक कम करते हैं
+    - इंजीनियरिंग विभाग की सहायता के लिए MICROS संपत्ति प्रबंधन प्रणाली (PMS) पर प्रशिक्षण लिया
