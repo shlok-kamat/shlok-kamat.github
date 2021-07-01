@@ -1,6 +1,6 @@
 # section information
 section:
-  name: About
+  name: मेरे बारे मेँ
   id: about
   enable: true
   weight: 1
@@ -8,10 +8,10 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Student
+designation: छात्र
 # your company information
 company:
-  name: Shiv Nadar University
+  name: शिव नादर विश्वविद्यालय
   url: "https://snu.edu.in/home"
 
 # your resume. this file path should be relative to you "static" directory
@@ -71,17 +71,17 @@ badges:
   
 
 - type: soft-skill-indicator
-  name: Leadership
-  percentage: 90
+  name: नेतृत्व
+  percentage: 80
   color: blue
 
 - type: soft-skill-indicator
-  name: Team Work
+  name: सामूहिक कार्य
   percentage: 85
   color: yellow
 
 - type: soft-skill-indicator
-  name: Hard Working
+  name: मेहनती
   percentage: 95
   color: orange
 
