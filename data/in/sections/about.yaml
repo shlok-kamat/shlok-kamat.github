@@ -1,0 +1,92 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Student
+# your company information
+company:
+  name: Shiv Nadar University
+  url: "https://snu.edu.in/home"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "shlok.kamat18@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/Shlok2002"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/shlok-s-kamat/"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: certification
+  name: Data Science Foundations - Level 2 
+  url: "https://www.credly.com/badges/b823957b-c3dc-4b44-81a1-02ad3ec3892f/public_url"
+  badge: "https://images.credly.com/images/d7321425-c989-4bf9-846a-cd2a647d213b/Data_Sci_Foundations_Level_2_-_CC_-_2019.png"
+  
+- type: certification
+  name: Data & AI Essentials 
+  url: "https://www.credly.com/badges/3104c102-d25e-4df3-a337-f4831ef6fcec/public_url"
+  badge: "https://images.credly.com/size/220x220/images/7481cfd9-3956-4b6b-8dc5-edbabb2fd98f/Data_-_AI_Essentials_CP4D_Journey.png"
+   
+- type: certification
+  name: Basic Principles of Design
+  url: "https://www.credly.com/badges/a8bb0c7e-4187-47c1-b374-65ac1af090ac/public_url"
+  badge: "https://images.credly.com/size/220x220/images/f7d86d94-93de-4809-9af1-9c8e4c643098/Basic_principles_of_design.png"
+  
+- type: certification
+  name: Data Science for Business - Level 1
+  url: "https://www.credly.com/badges/20e1d590-1209-4dee-986c-333f9171b207/public_url"
+  badge: "https://images.credly.com/size/220x220/images/f2f9716d-7be0-47ef-b4ad-c8d3b481b9d7/Data_Sci_Business_Level_1_-_CC_-_2019.png"
+  
+- type: certification
+  name: AI Foundations 
+  url: "https://www.credly.com/badges/96378567-d241-4721-87bb-e778a9b26237/public_url"
+  badge: "https://images.credly.com/size/220x220/images/cbe4e88d-a39a-4863-b98e-932925547e43/AI_Foundations_badge_ISTE_IBM.png"
+  
+- type: certification
+  name: IBM Blockchain Essentials V2
+  url: "https://www.credly.com/badges/f2cd8984-a85a-4a24-8daf-2b23821b2829/public_url"
+  badge: "https://images.credly.com/size/220x220/images/2f9eee24-6834-4595-b2b6-e8e585190a0d/IBM-Blockchain-Essentials-V2.png"
+  
+
+- type: soft-skill-indicator
+  name: Leadership
+  percentage: 90
+  color: blue
+
+- type: soft-skill-indicator
+  name: Team Work
+  percentage: 85
+  color: yellow
+
+- type: soft-skill-indicator
+  name: Hard Working
+  percentage: 95
+  color: orange
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
