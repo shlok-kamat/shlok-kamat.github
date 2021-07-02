@@ -13,23 +13,23 @@ section:
 skills:
 - name: MathWorks Matlab
   logo: /images/sections/skills/Matlab_Logo.png
-  summary: "Using Matlab computing software for elecrical circuit and system analyses. Developing various simulations using Simulink package."
+  summary: "इलेक्रिकल सर्किट और सिस्टम विश्लेषण के लिए मैटलैब कंप्यूटिंग सॉफ्टवेयर का उपयोग करना। सिमुलिंक पैकेज का उपयोग करके विभिन्न सिमुलेशन विकसित करना"
   url: "https://www.mathworks.com/"
 
 - name: Python Development
   logo: /images/sections/skills/python.png
-  summary: "Using as the main language for professional development. Capable of writing GUI based programs and softwares. Used also for scientific computation and Exploratory Data Analysis (EDA)"
+  summary: "व्यावसायिक विकास के लिए मुख्य भाषा के रूप में उपयोग करना। जीयूआई आधारित प्रोग्राम और सॉफ्टवेयर लिखने में सक्षम। वैज्ञानिक गणना और खोजपूर्ण डेटा विश्लेषण (ईडीए) के लिए भी प्रयुक्त"
   url: "https://www.python.org/"
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
-  summary: "Basic knowledge of the major clouds such as GCP, AWS, Azure etc."
+  summary: "प्रमुख क्लाउड कंप्यूटिंग प्लेटफॉर्म जैसे GCP, AWS, Azure आदि का बुनियादी ज्ञान"
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  summary: "Git-आधारित विकास के साथ अनुभवी। अधिकतर, Github का उपयोग करें। इसके अलावा, GitLab के साथ काम करने का अनुभव है।"
   url: "https://git-scm.com/"
 
 - name: C
   logo: /images/sections/skills/C.png
-  summary: "Know basic C programming. Used for contest programming and problem solving."
+  summary: "प्रतियोगिता प्रोग्रामिंग और समस्या समाधान के लिए उपयोग की जाने वाली बेसिकी C प्रोग्रामिंग"
