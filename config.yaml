@@ -56,7 +56,7 @@ params:
   logo:
     main: /images/site/logo(1).svg
     inverted: /images/site/logo.svg
-    favicon: /images/site/logo.svg
+    favicon: /images/site/favicon.png
 
   # GitHub repo of your site
   gitRepo: https://github.com/shlok-kamat/shlok-kamat.github.io
