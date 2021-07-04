@@ -55,7 +55,7 @@ params:
   # It will default to the theme logos if not provided.
   logo:
     main: /images/site/logo.svg
-    inverted: /images/site/logo2.svg
+    inverted: /images/site/logo3.svg
     favicon: /images/site/logo1.svg
 
   # GitHub repo of your site
