@@ -16,15 +16,15 @@ accomplishments:
   organization:
     name: Harvard University
     url: https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0
-  courseOverview: "This course taught me to think algorithmically and solve problems efficiently.Topics included abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web programming.Languages included C, Python, and SQL plus students’ choice of: HTML, CSS, and JavaScript (for web development); Java or Swift (for mobile app development); or Lua (for game development)."
+  courseOverview: "This course taught me to think algorithmically and solve problems efficiently. Topics included abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web programming. Languages included C, Python, and SQL plus students’ choice of: HTML, CSS, and JavaScript (for web development); Java or Swift (for mobile app development); or Lua (for game development)."
   certificateURL: "https://certificates.cs50.io/de02790a-5893-4745-b6c7-58880518673f.pdf?size=letter"
 
-- name: Machine Learning
-  timeline: "Jun 2020 - Jan 2021"
+- name: Responsive Web Design
+  timeline: "December 2019 - June 2020"
   organization:
-    name: Coursera
-    url: https://www.coursera.org
-  courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
+    name: freeCodeCamp
+    url: https://www.freecodecamp.org/
+  courseOverview: "This course gave me an overview of basic elements of web development. I leanrt the best practices in web designing and development. Towards the end of the course, I made 5 unique projects including a Twitter card with flexbox and a complex blog layout with CSS Grid"
   certificateURL: "https://example.com"
 
 - name: Grokking the System Design Interview
