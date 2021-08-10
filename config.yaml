@@ -55,8 +55,8 @@ params:
   # It will default to the theme logos if not provided.
   logo:
     main: /images/site/logom1.png
-    inverted: /images/site/logo3.svg
-    favicon: /images/site/logo3.svg
+    inverted: /images/site/logom1.png
+    favicon: /images/site/logom1.png
 
   # GitHub repo of your site
   gitRepo: https://github.com/shlok-kamat/shlok-kamat.github.io
