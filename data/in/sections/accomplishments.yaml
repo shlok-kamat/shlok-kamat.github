@@ -16,7 +16,7 @@ accomplishments:
   organization:
     name: Harvard University
     url: https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0
-  courseOverview: "इस कोर्स ने मुझे एल्गोरिथम के रूप में सोचना और समस्याओं को कुशलता से हल करना सिखाया। विषयों में अमूर्त, एल्गोरिदम, डेटा संरचनाएं, एनकैप्सुलेशन, संसाधन प्रबंधन, सुरक्षा, सॉफ्टवेयर इंजीनियरिंग और वेब प्रोग्रामिंग शामिल थे। भाषाओं में सी, पायथन और एसक्यूएल प्लस छात्रों की पसंद शामिल हैं: एचटीएमएल, सीएसएस, और जावास्क्रिप्ट (वेब ​​विकास के लिए); जावा या स्विफ्ट (मोबाइल ऐप डेवलपमेंट के लिए); या लुआ (खेल विकास के लिए)।"
+  courseOverview: "This course taught me to think algorithmically and solve problems efficiently. Topics included abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web programming. Languages included C, Python, and SQL plus students’ choice of: HTML, CSS, and JavaScript (for web development); Java or Swift (for mobile app development); or Lua (for game development)."
   certificateURL: "https://certificates.cs50.io/de02790a-5893-4745-b6c7-58880518673f.pdf?size=letter"
 
 - name: Machine Learning
