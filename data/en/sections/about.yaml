@@ -18,7 +18,7 @@ company:
 resume: "files/Resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am studying for a Bachelors in Electrical and Electronics Engineering in the Department Electrical Engineering at Shiv Nadar University. I expect to graduate in Spring, 2024. I am a dedicated student working towards a future where I can contribute greatly to automotive electronics and defense technology. I like to challenge myself; I am currently learning R for statistical computing and plan to further my learning by performing exploratory data analyses on public data-sets.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
