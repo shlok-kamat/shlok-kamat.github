@@ -33,3 +33,8 @@ skills:
 - name: C
   logo: /images/sections/skills/C.png
   summary: "प्रतियोगिता प्रोग्रामिंग और समस्या समाधान के लिए उपयोग की जाने वाली बेसिकी C प्रोग्रामिंग"
+  
+ - name: R
+  logo: /images/sections/skills/R.png
+  summary: "वर्तमान में सांख्यिकीय कंप्यूटिंग और खोजपूर्ण डेटा विश्लेषण (ईडीए) के लिए आर सीख रहा हूँ "
+  url: "https://www.r-project.org/"
