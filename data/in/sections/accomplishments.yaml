@@ -11,13 +11,13 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: Linux Foundation System Administrator
-  timeline: "March 2018 - March 2019"
+- name: CS50x - Introduction to Computer Science
+  timeline: "March 2020 - June 2020"
   organization:
-    name: Linux Foundation
-    url: https://www.linuxfoundation.org
-  courseOverview: এই কোর্সটি মূল ধারণাগুলি যেমন নেটওয়ার্কিং, স্টোরেজ, সুরক্ষা, রক্ষণাবেক্ষণ, লগিং এবং পর্যবেক্ষণ, অ্যাপ্লিকেশন জীবনচক্র, সমস্যা সমাধান, এপিআই অবজেক্ট আদিম ইত্যাদি বুঝতে সহায়তা করে এটি শেষ ব্যবহারকারীদের জন্য বেসিক ব্যবহারের ক্ষেত্রে প্রতিষ্ঠার দক্ষতা বৃদ্ধি করতে সহায়তা করে।
-  certificateURL: "https://example.com"
+    name: Harvard University
+    url: https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0
+  courseOverview: "इस कोर्स ने मुझे एल्गोरिथम के रूप में सोचना और समस्याओं को कुशलता से हल करना सिखाया। विषयों में अमूर्त, एल्गोरिदम, डेटा संरचनाएं, एनकैप्सुलेशन, संसाधन प्रबंधन, सुरक्षा, सॉफ्टवेयर इंजीनियरिंग और वेब प्रोग्रामिंग शामिल थे। भाषाओं में सी, पायथन और एसक्यूएल प्लस छात्रों की पसंद शामिल हैं: एचटीएमएल, सीएसएस, और जावास्क्रिप्ट (वेब ​​विकास के लिए); जावा या स्विफ्ट (मोबाइल ऐप डेवलपमेंट के लिए); या लुआ (खेल विकास के लिए)।"
+  certificateURL: "https://certificates.cs50.io/de02790a-5893-4745-b6c7-58880518673f.pdf?size=letter"
 
 - name: Machine Learning
   timeline: "Jun 2020 - Jan 2021"
