@@ -35,6 +35,6 @@ skills:
   summary: "Know basic C programming. Used for contest programming and problem solving."
   
 - name: R
-  logo: "https://en.wikiversity.org/wiki/R_(programming_language)#/media/File:R_logo.svg"
-  summary: "Know basic C programming. Used for contest programming and problem solving."
+  logo: /images/sections/skills/R.png
+  summary: "Know basic R programming. Used for statistical computing and Exploratory Data Analysis (EDA)."
 
