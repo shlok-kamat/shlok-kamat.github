@@ -37,4 +37,5 @@ skills:
 - name: R
   logo: /images/sections/skills/R.png
   summary: "Know basic R programming. Used for statistical computing and Exploratory Data Analysis (EDA)."
+  url: "https://www.r-project.org/"
 
