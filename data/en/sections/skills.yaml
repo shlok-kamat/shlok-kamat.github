@@ -33,3 +33,8 @@ skills:
 - name: C
   logo: /images/sections/skills/C.png
   summary: "Know basic C programming. Used for contest programming and problem solving."
+  
+- name: R
+  logo: "https://en.wikiversity.org/wiki/R_(programming_language)#/media/File:R_logo.svg"
+  summary: "Know basic C programming. Used for contest programming and problem solving."
+
