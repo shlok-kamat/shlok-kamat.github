@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Student
+designation: Engineering Sophomore
 # your company information
 company:
   name: Shiv Nadar University
