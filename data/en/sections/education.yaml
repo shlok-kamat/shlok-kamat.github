@@ -37,7 +37,7 @@ degrees:
    # scale: #(CGPA)
    # achieved: 8.82 
    # outOf: 10 (Dean's List Recipient)
-  coursesTaken: #(optional)
+  takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: false
     courses:
