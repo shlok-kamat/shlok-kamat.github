@@ -34,9 +34,9 @@ degrees:
     name: Shiv Nadar University
     url: "https://snu.edu.in/home"
   grade: #(optional)
-    scale: #(CGPA)
-    achieved: 8.82 
-    outOf: 10 (Dean's List Recipient)
+   # scale: #(CGPA)
+   # achieved: 8.82 
+   # outOf: 10 (Dean's List Recipient)
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: false
