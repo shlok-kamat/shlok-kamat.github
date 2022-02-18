@@ -18,14 +18,14 @@ company:
 resume: "files/Resume.pdf"
 
 # a summary about you
-summary: 'I am studying for a Bachelors in Electrical and Electronics Engineering in the Department Electrical Engineering at Shiv Nadar University. I expect to graduate in Spring, 2024. I am a dedicated student working towards a future where I can contribute greatly to automotive electronics and defense technology. I like to challenge myself; I am currently learning R for statistical computing and plan to further my learning by performing exploratory data analyses on public data-sets.'
+summary: 'I am studying for a Bachelors in Electrical and Electronics Engineering in the Department Electrical Engineering at Shiv Nadar University. I expect to graduate in Spring, 2024. I am a dedicated student working towards a future where I can contribute greatly to automotive electronics and defense technology. I am currently learning R for statistical computing and plan to further my learning by performing exploratory data analyses on public data-sets.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "shlok.kamat18@gmail.com"
+  url: "ks649@snu.edu.in"
 
 - name: Github
   icon: "fab fa-github"
@@ -33,16 +33,16 @@ socialLinks:
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/shlok-s-kamat/"
+  url: "https://www.linkedin.com/in/shlokkamat/"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
-  name: Data Science Foundations - Level 2 
-  url: "https://www.credly.com/badges/b823957b-c3dc-4b44-81a1-02ad3ec3892f/public_url"
-  badge: "https://images.credly.com/images/d7321425-c989-4bf9-846a-cd2a647d213b/Data_Sci_Foundations_Level_2_-_CC_-_2019.png"
+  name: IBM Data Analyst - Professional Certificate 
+  url: "https://www.credly.com/badges/a48d8f67-a00e-4369-95f7-c2652ce96e09/public_url"
+  badge: "https://images.credly.com/size/220x220/images/2e9770bd-020f-4435-99c2-89b2403467a4/Professional_Certificate_-_Data_Analyst.png"
   
 - type: certification
   name: Data & AI Essentials 
