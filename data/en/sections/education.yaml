@@ -34,7 +34,7 @@ degrees:
     name: Shiv Nadar University
     url: "https://snu.edu.in/home"
   grade: #(optional)
-    scale: CGPA
+    scale: #(CGPA)
     achieved: 8.82 
     outOf: 10 (Dean's List Recipient)
   takenCourses: #(optional)
