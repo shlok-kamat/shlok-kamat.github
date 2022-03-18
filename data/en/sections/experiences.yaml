@@ -10,7 +10,7 @@ section:
 
 # Your experiences
 experiences:
- company:
+- company:
     name: Spenny FinTech Pvt. Ltd
     url: "https://spennyapp.com/"
     location: Remote
@@ -25,6 +25,7 @@ experiences:
     responsibilities:
     - Improving customer reach by writing high quality original blogs for company website 
     - Learning new content management tools
+    
 - company:
     name: Nexus - Shiv Nadar University
     url: "https://nexussnu.wixsite.com/nexus"
