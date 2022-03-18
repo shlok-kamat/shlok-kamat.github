@@ -39,20 +39,27 @@ degrees:
    # outOf: 10 (Dean's List Recipient)
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: false
+    showGrades: true
     courses:
     - name: Digital Electronics
-      achieved: 3.75
-      outOf: 4
-    - name: Basics of Electrical and Electronics Devices
-      achieved: 3.80
-      outOf: 4
+      achieved: 8
+      outOf: 10
+    - name: Data Structures
+      achieved: 9
+      outOf: 10
     - name: Introduction to Semiconductor Devices
-      achieved: 3.5
-      outOf: 4
+      achieved: 10
+      outOf: 10
     - name: Mathematical Modelling
-      achieved: 3.75
-      outOf: 4
+      achieved: 8
+      outOf: 10
+    - name: Electrical Machines I
+      achieved: 10
+      outOf: 10
+    - name: Mathematical Modelling
+      achieved: 8
+      outOf: 10
+      
   #publications: #(optional)
  # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
  #  url: "#"
