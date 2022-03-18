@@ -10,6 +10,21 @@ section:
 
 # Your experiences
 experiences:
+ company:
+    name: Spenny FinTech Pvt. Ltd
+    url: "https://spennyapp.com/"
+    location: Remote
+    # company overview
+    overview: Spenny is one of the fastest and easiest ways to save and invest. Invest your roundups in a diversified portfolio and in 24K digital gold. Everytime you conduct a transaction, the Spenny app rounds up the amount to the nearest Rs. 10 and automatically invests the amount. It is quick, easy and secure.
+  positions:
+  - designation: Intern - Content and Business Development
+    start: Mar 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Improving customer reach by writing high quality original blogs for company website 
+    - Learning new content management tools
 - company:
     name: Nexus - Shiv Nadar University
     url: "https://nexussnu.wixsite.com/nexus"
@@ -20,19 +35,12 @@ experiences:
   - designation: Webmaster - Social Media Team
     start: Jan 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
+    end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Supervising and overseeing social media advertising campaigns for the gaming club website
     - Guiding the PR team to boost participation by examining and analyzing website traffic patterns 
-    - Learning new content management tools
-
-  - designation: Student Member
-    start: Oct 2020
-    responsibilities:
-    - Planning and executing monthly gaming club activities in collaboration with other members and clubs
-    - Passionately participating in gaming events and spreading the gaming culture at university
-   
+    
 - company:
     name: Zenida Studios
     url: "https://www.zenidastudios.com/"
