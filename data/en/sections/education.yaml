@@ -39,7 +39,7 @@ degrees:
    # outOf: 10 (Dean's List Recipient)
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: true
+    showGrades: false
     courses:
     - name: Digital Electronics
       achieved: 8
@@ -55,9 +55,6 @@ degrees:
       outOf: 10
     - name: Electrical Machines I
       achieved: 10
-      outOf: 10
-    - name: Mathematical Modelling
-      achieved: 8
       outOf: 10
       
   #publications: #(optional)
