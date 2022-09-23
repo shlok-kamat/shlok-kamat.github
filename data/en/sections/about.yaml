@@ -54,6 +54,11 @@ badges:
   url: "https://www.credly.com/badges/a8bb0c7e-4187-47c1-b374-65ac1af090ac/public_url"
   badge: "https://images.credly.com/size/220x220/images/f7d86d94-93de-4809-9af1-9c8e4c643098/Basic_principles_of_design.png"
   
+- type: certification
+  name: Open Source Software Development, Linux and Git Specialization
+  url: "https://www.credly.com/badges/64088246-eac7-40de-b60e-7e14ca70ea90/public_url"
+  badge: "https://images.credly.com/size/220x220/images/a8e890b4-d484-4e04-b521-fba516a8c3cd/coursera-specialization-badge.png"
+  
 #- type: certification
 #  name: Data Science for Business - Level 1
 #  url: "https://www.credly.com/badges/20e1d590-1209-4dee-986c-333f9171b207/public_url"
