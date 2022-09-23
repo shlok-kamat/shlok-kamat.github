@@ -70,20 +70,20 @@ badges:
 #  badge: "https://images.credly.com/size/220x220/images/2f9eee24-6834-4595-b2b6-e8e585190a0d/IBM-Blockchain-Essentials-V2.png"
   
 
-- type: soft-skill-indicator
-  name: Leadership
-  percentage: 90
-  color: blue
+#- type: soft-skill-indicator
+#  name: Leadership
+#  percentage: 90
+#  color: blue
 
-- type: soft-skill-indicator
-  name: Team Work
-  percentage: 85
-  color: yellow
+#- type: soft-skill-indicator
+#  name: Team Work
+#  percentage: 85
+#  color: yellow
 
-- type: soft-skill-indicator
-  name: Hard Working
-  percentage: 95
-  color: orange
+#- type: soft-skill-indicator
+#  name: Hard Working
+#  percentage: 95
+#  color: orange
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
